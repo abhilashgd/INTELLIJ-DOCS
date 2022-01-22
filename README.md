@@ -1,6 +1,12 @@
 # INTELLIJ DOCUMENTATION for MAC 
 
-#Intellij Settings
+                References:
+                      >  https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+                      >  https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html#choose-keymap
+                      >  https://www.jetbrains.com/help/idea/getting-started.html
+
+
+# Intellij Settings
 
         > file --> project structure // to change SDK and add external libraries
         > view --> Qucik switch theme to change themes // https://plugins.jetbrains.com/to get custom themes
@@ -24,7 +30,6 @@
         
         > IntelliJ IDEA --> preferences --> keymap
          1, Intellij Idea classic
-        
 
 # Intellij Keywords/shortcuts
 
@@ -40,7 +45,6 @@
         //handling file structure
         > command + 7 : to open and close file structure.
         navigate --> file structure or command+F12
-
 
         //handling variables
         > alt+command+v : to introduce a variable
@@ -72,12 +76,6 @@
                 - toString()
 
 
-
-        
-        
-        
-
-
 # GIT 
 
         > command + k : to commit changes
@@ -90,7 +88,7 @@
 
         > option + command + l : to reformat code
 
-#Writing Kotlin COde
+# Writing Kotlin Code
         
         > right click on java class --> convert javafile to kotlin file
         > ctrl + enter --> create kotlin class/file --> select class and give a name like "NotificationEvent"
