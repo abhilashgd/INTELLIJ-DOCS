@@ -1,12 +1,9 @@
-package com.abhilashgd;
+package com.abhilashgd
 
-import com.abhilashgd.model.Product;
+import com.abhilashgd.model.NotificationEvent
 
-import java.time.ZonedDateTime;
+fun main(args: Array<String>) {
 
-public class Main {
-    public static void main(String[] args) {
-	// write your code here
-        System.out.println("Hello World");
-    }
+    val event = NotificationEvent("Notification event received")
+    print(event.event)
 }
