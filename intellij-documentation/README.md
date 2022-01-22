@@ -82,4 +82,16 @@
 
         > command + k : to commit changes
         // at the bottom right, click on git brach --> new branch --> new feature name--> create
+        > commit and push
+        > commit anyway //if there are warnings, check warnings and commit 
+    
+        //create pull request
+        vcs--> create pull request
+
+        > option + command + l : to reformat code
+
+#Writing Kotlin COde
+        
+        > right click on java class --> convert javafile to kotlin file
+        > ctrl + enter --> create kotlin class/file --> select class and give a name like "NotificationEvent"
         
